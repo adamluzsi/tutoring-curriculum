@@ -2,7 +2,6 @@ Tutoring
 
 ========
 
-
 # Epoc 1
 
 ## What You Will Learn
