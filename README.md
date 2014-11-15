@@ -19,13 +19,13 @@ Tutoring
 
 * Git
 
-  * App it self
+  * how to use the git in terminal
 
   * Git branching and development stages
 
   * BitBucket.org
 
-  * GitHub
+  * GitHub.com
 
 
 * IDE
@@ -34,10 +34,15 @@ Tutoring
 
   * RubyMine
 
+  * Eclipse
+
 * Virtualization
 
   * Koding.com
 
+  * Oracle: Virtualbox
+
+  * VMware: Player
 
 
 ## What Is Programming
@@ -396,7 +401,7 @@ Tutoring
 
 
 
-## Passing Functions
+## Passing lambad to Functions
 
 * when to use
 
