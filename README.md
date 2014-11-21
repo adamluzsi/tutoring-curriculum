@@ -2,7 +2,7 @@ Tutoring
 
 ========
 
-# Epoc 1
+# Epocha 1
 
 ## What You Will Learn
 
@@ -52,7 +52,7 @@ Tutoring
 * Best practice in learning and advancing 
 
 
-# Epoc 2
+# Epocha 2
 
 
 ## When and How Does Code Run
@@ -432,8 +432,7 @@ Tutoring
 * reading files with blocking and non blocking
 
 
-# Epoc 3
-
+# Epocha 3
 
 ## External Libraries
 
