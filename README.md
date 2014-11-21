@@ -12,7 +12,7 @@ Tutoring
 
 ## What You Need To Know
 
-* before start anything what you should know about programming, what challenge await you
+* before starting anything what you should know about programming, what challenge awaits you
 
 
 ## Development Tools
@@ -65,7 +65,7 @@ Tutoring
 
 * Learning the Point of the User
 
-  * Thinking ahead for cases when User use different env than us, no hardwares such as keyboard or mouse
+  * Thinking ahead for cases when User uses different env than us, no hardwares such as keyboard or mouse
 
   * Learning how to manage make things work with minimum
 
@@ -73,7 +73,7 @@ Tutoring
 
 ## How to choose Language for Project
 
-* Language levels and they best uses cases
+* Language levels and they best use cases
 
 
 
@@ -161,7 +161,7 @@ Tutoring
 
 * How to do it, simple scenario
 
-* Why it is important to know how to do it other than using stdout.write for checking what is running and where it stop
+* Why it is important to know how to do it other than using stdout.write for checking what is running and where it stops
 
 
 
@@ -177,7 +177,7 @@ Tutoring
 
 ## Conditions And Code Blocks
 
-* What are conditions , where to use them
+* What are conditions, where to use them
 
 * what are code blocks, Lambda operators
 
@@ -191,7 +191,7 @@ Tutoring
 
 * when to use 
 
-* what happen in them
+* what happens in them
 
 
 
@@ -343,7 +343,7 @@ Tutoring
 
 * what are binary data
 
-* how computer see an object
+* how computer sees an object
 
 * operators to work with raw binary format for really fast processing 
 
@@ -383,7 +383,7 @@ Tutoring
 
 ## Closures
 
-* what is closures
+* what are closures
 
 * how variables reference holding can be passed on programs life cycle
 
@@ -401,7 +401,7 @@ Tutoring
 
 
 
-## Passing lambad to Functions
+## Passing lambdas to Functions
 
 * when to use
 
@@ -440,5 +440,4 @@ Tutoring
 
 * how to analyze them before build in
 
-* most play around with the most famous ones
-
+* mostly play around with the most famous ones
