@@ -17,6 +17,12 @@ Tutoring
 
 ## Development Tools
 
+* Terminal
+
+  * Basics use
+  
+  * How it finds the applications
+
 * Git
 
   * how to use the git in terminal
@@ -30,20 +36,17 @@ Tutoring
 
 * IDE
 
-  * WebStorm
+  * JetBrains IDEA products
 
-  * RubyMine
-
-  * Eclipse
+  * Atom
+  
+  * Visual Studio Code
 
 * Virtualization
-
-  * Koding.com
 
   * Oracle: Virtualbox
 
   * VMware: Player
-
 
 ## What Is Programming
 
