@@ -1,0 +1,1 @@
+Addig olvassuk a szöveget amíg nem találunk olyan vesszőt ami előtt nincs visszaper jel, utána a vessző mentén folytatjuk a szöveg második felének olvasását a teljes szöveg legvégéig.
